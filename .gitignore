@@ -1,0 +1,5 @@
+.venv/
+celeba_data/
+3dshapes.h5
+__pycache__/
+.ipynb_checkpoints/
